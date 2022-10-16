@@ -1,0 +1,34 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.name {
+    color: blueviolet;
+}
+
+.section-1 {
+    display: flex;
+    padding: 20px;
+
+}
+
+.section-1-half {
+    width: 50%;
+    padding: 5%;
+}
+
+.section-1-half img {
+    width: 80%;
+}
+
+.hireme-button {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    font-weight: 700;
+    padding: 10px 40px;
+    border-radius: 5px;
+}
